@@ -15,12 +15,11 @@ I currently work as a data analyst and am enrolled in the Master of Statistics p
 
  # *Activities I enjoy*  
  
-| Activity              | 
-| --------------------- |
-| Playing with my dogs  | 
-| Hiking                |
-| Dancing               |
-| Painting/Drawing      |
+| Activity              |            |
+| --------------------- | -----------|
+| Playing with my dogs  | Hiking     |
+| Dancing               | Kayaking   |
+| Painting/Drawing      | Biking     |
 
 
 
