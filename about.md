@@ -13,8 +13,9 @@ I currently work as a data analyst and am enrolled in the Master of Statistics p
     + I originally intended to get a Bachelor's in Acturial Science, but went with Mathematics instead!
         
 
- # *Activities I enjoy*
-| Actvitiy              | 
+ # *Activities I enjoy*  
+ 
+| Activity              | 
 | --------------------- |
 | Playing with my dogs  | 
 | Hiking                |
