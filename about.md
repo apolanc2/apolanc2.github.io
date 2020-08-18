@@ -13,7 +13,7 @@ I currently work as a data analyst and am enrolled in the Master of Statistics p
   - I have 2 dogs!
   - I originally intended to get a Bachelor's in Acturial Science, but went with Mathematics instead!    
     
- # _Activities I enjoy_  
+ #_Activities I enjoy_  
   
   + Outdoor Activities  
     * Hiking  
