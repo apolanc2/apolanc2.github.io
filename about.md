@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
 ---
 
 My name is **Ariana**. I'm based in New York!  
@@ -14,11 +17,7 @@ I currently work as a data analyst and am enrolled in the Master of Statistics p
     
  ## *Activities I enjoy*  
  
- Activity              | Outdoor Activity          
- --------------------- | -----------------
- Playing with my dogs  | Hiking     
- Dancing               | Kayaking   
- Painting/Drawing      | Biking     
+
 
 
 
