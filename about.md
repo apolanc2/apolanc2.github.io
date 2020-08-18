@@ -13,13 +13,13 @@ I currently work as a data analyst and am enrolled in the Master of Statistics p
     + I originally intended to get a Bachelor's in Acturial Science, but went with Mathematics instead!
         
 
- # *Activities I enjoy*  
+ ## *Activities I enjoy*  
  
-| Activity              |            |
-| --------------------- | -----------|
-| Playing with my dogs  | Hiking     |
-| Dancing               | Kayaking   |
-| Painting/Drawing      | Biking     |
+| Activity              |            
+| --------------------- | -----------
+| Playing with my dogs  | Hiking     
+| Dancing               | Kayaking   
+| Painting/Drawing      | Biking     
 
 
 
