@@ -6,11 +6,11 @@ title: Project 1
 ## Data Setup
 For project 1, we were assigned the task of creating a vignette for reading and summarizing data form the National Hockey League's API. 
 To do this there were 2 main functions created.    
-  1. nhlRecords: This function has one required argument, "endpoint" here you can call in the specific endpoint. There is also one optional argument, "franchiseID". 
+  1. **nhlRecords**: This function has one required argument, "endpoint" here you can call in the specific endpoint. There is also one optional argument, "franchiseID". 
   If desired, you can enter in the franchise ID to filter for a specific franchise.    
-  2. nhlStats: This function as no required arguments. If this is used without arguments, it will return all stats! For modifications set "modifier" equal to your desired modification. To modifiy the stats there is the "teamID" and "season" arguments.
+  2. **nhlStats**: This function as no required arguments. If this is used without arguments, it will return all stats! For modifications set "modifier" equal to your desired modification. To modifiy the stats there is the "teamID" and "season" arguments.
   to capture a specific team, please set "teamID" equal desired ID number. If specific seasons are desired set "season" equal to desired season year. If multiple seasons are desired please identify all season years side by side without spaces. For example if you are interested in 2015 and 2016 then season="20152016".    
-To make it easier for the user, a wrapper function, nhlAPI(interest) was created so there was only one function needed to get to these endpoints. 
+To make it easier for the user, a wrapper function, **nhlAPI(interest)** was created so there was only one function needed to get to these endpoints. 
 Here "interest" is either a nhlRecords endpoint or it is a nhlStats modifier. By default this function is read to call in an endpoint, when stats are desired "stats" must be set equal to "TRUE". The rest of the arguments noted from the functions above can be used accordingly.
 
 I have also created 2 vectors that have the endpoints and stats modifiers for quick applications! No need to double check your spelling!
@@ -33,7 +33,7 @@ Next we can explore the win rate using a histogram. In general, we can see that 
 Lastly, we can explore both the win rate and the home win rate together using a scatter plot. We can see that as the win rate increases the home win rate generally increases as well, which may indicate teams do better at their home.
 
 ## Reflection
-Looking back on how I approached the project, I don't know that I would have done anything really different. I do think commiting to github was a bit intimidating and may have caused an unintential stall in the process of completing the project.
+Looking back on how I approached the project, I don't know that I would have done anything really different. I do think commiting to github from RStudio was a bit intimidating and may have caused an unintential stall in the process of completing the project.
 Now that I have accomplished this I feel more confident about using github in the future, which would allow myself to be a bit more efficient.
 Overall, the most challenging part of the project was understanding the data. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things. Programming wise, I felt the most difficult part was retreiving the data. There are a lot of resources out there to figure out different functions if you forget, but since every API isn't the same it can be difficult!
 Moving forward the best piece of advice I could give myself or anyone else is "Don't panic, you know what to do!"
