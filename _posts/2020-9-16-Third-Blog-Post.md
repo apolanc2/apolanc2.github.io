@@ -35,6 +35,7 @@ Lastly, we can explore both the win rate and the home win rate together using a 
 ## Reflection
 Looking back on how I approached the project, I don't know that I would have done anything really different. I do think commiting to github was a bit intimidating and may have caused an unintential stall in the process of completing the project.
 Now that I have accomplished this I feel more confident about using github in the future, which would allow myself to be a bit more efficient.
-Overall, the most challenging part of the project was understanding the data. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things.
+Overall, the most challenging part of the project was understanding the data. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things. Programming wise, I felt the most difficult part was retreiving the data. There are a lot of resources out there to figure out different functions if you forget, but since every API isn't the same it can be difficult!
+Moving forward the best piece of advice I could give myself or anyone else is "Don't panic, you know what to do!"
  
-[Repo](https://github.com/apolanc2/Project1)
+[My Repo Link For Project1](https://github.com/apolanc2/Project1)
