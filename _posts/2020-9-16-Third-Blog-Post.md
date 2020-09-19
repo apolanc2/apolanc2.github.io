@@ -38,4 +38,4 @@ Now that I have accomplished this I feel more confident about using github in th
 Overall, the most challenging part of the project was understanding the data. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things. Programming wise, I felt the most difficult part was retreiving the data. There are a lot of resources out there to figure out different functions if you forget, but since every API isn't the same it can be difficult!
 Moving forward the best piece of advice I could give myself or anyone else is "Don't panic, you know what to do!"
  
-[My Repo Link For Project1](https://github.com/apolanc2/Project1)
+[My Repo Link For Project1](https://apolanc2.github.io/Project1/)
