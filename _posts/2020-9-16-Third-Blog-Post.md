@@ -33,9 +33,11 @@ Next we can explore the win rate using a histogram. In general, we can see that 
 Lastly, we can explore both the win rate and the home win rate together using a scatter plot. We can see that as the win rate increases the home win rate generally increases as well, which may indicate teams do better at their home.
 
 ## Reflection
-Looking back on how I approached the project, I don't know that I would have done anything really different. I do think commiting to github from RStudio was a bit intimidating and may have caused an unintential stall in the process of completing the project.
-Now that I have accomplished this I feel more confident about using github in the future, which would allow myself to be a bit more efficient.
-Overall, the most challenging part of the project was understanding the data. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things. Programming wise, I felt the most difficult part was retreiving the data. There are a lot of resources out there to figure out different functions if you forget, but since every API isn't the same it can be difficult!
+Looking back on how I approached the project, I don't know that I would have done anything really different. I do think commiting to github from RStudio was a bit intimidating.
+Now that I have accomplished this I feel more confident about using github in the future, which would allow me to be a bit more efficient.
+Overall, the most challenging part of the project was getting RStudio and github to communicate. I ran in to a lot of issues and received many fatal errors. Unfortunately, since github pages requires the repository to be public, I ran into a lot of these issues last minute. To be sure my page was functioning I had to sacrifice the table of contents. 
+I also found understanding the data to be a bit difficult. Generally, before diving into data I like to have more of a background. As a clinical analyst, I don't always have a lot of information on the data I work with and I've become accustom to it. I will say NHL data was very new to me, but I enjoy exploring and learning new things. 
+Programming wise, I felt the most difficult part was retreiving the data. There are a lot of resources out there to figure out different functions if you forget, but since every API isn't the same it can be difficult!
 Moving forward the best piece of advice I could give myself or anyone else is "Don't panic, you know what to do!"
  
 [My Repo Link For Project1](https://apolanc2.github.io/Project1/)
