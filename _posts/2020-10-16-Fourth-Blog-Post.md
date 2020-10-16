@@ -31,4 +31,4 @@ If I were to do anything differently, I think I would spend some more time tryin
 
 
 Check out my project!
-[My Repo Link For Project1](https://apolanc2.github.io/Project2/)
+[My Repo Link For Project2](https://apolanc2.github.io/Project2/)
